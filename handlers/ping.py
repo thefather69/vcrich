@@ -63,7 +63,7 @@ async def help(client: Client, message: Message):
                         "💖 sᴜᴘᴘᴏʀᴛ 💖", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "🙄 sᴏᴜʀᴄᴇ 🙄", url="https://github.com/AnonymousR1025/FallenMusic"
+                        "🙄 sᴏᴜʀᴄᴇ 🙄", url="https://telegra.ph/file/9b0455dae14d5639f936d.mp4"
                     )
                 ]
             ]
